@@ -1,4 +1,4 @@
- IMPILO YAMI
+ IMPILO YAMI -
 SOBRE O PROJECTO:
  IMPILO YAMI é uma plataforma de controle de saúde pessoal, desenvolvido por Júnior Capitão, Laureta Pena, Leonel Feijó, Maira Paca, Maria da Conceição e Luciano Lando, com o intuito de ajudar quem não  pode se deslocar à um hospital, por intermédio a plataforma IMPILOYAMI,, que facilita o diálogo entre o paciente e o seu médico, permitindo assim o médico ter um controle total sobre a situação do seu paciente e o paciente deverá seguir as instruções médicas a partir de casa. 
 
